@@ -3,7 +3,7 @@
 # Installs rbenv and ruby 1.9.3 to /opt/rbenv
 # Base image is Amazon Linux AMI
 ############################################################
-FROM amazon
+FROM vettl/amazon-linux
 
 MAINTAINER peter.zingg@gmail.com
 
